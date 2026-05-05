@@ -253,26 +253,29 @@
 
 <div align="center">
   <a href="https://github.com/kazamadev2003">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kazamadev2003&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=86400" alt="GitHub Stats" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazamadev2003&amp;theme=tokyonight" alt="GitHub Profile Details" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/kazamadev2003">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazamadev2003&amp;theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/kazamadev2003?tab=repositories">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazamadev2003&amp;theme=tokyonight" alt="Top Languages by Repository" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/kazamadev2003?tab=repositories">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazamadev2003&amp;theme=tokyonight" alt="Top Languages by Commit" />
   </a>
   <a href="https://github.com/kazamadev2003">
-    <img width="48%" src="https://streak-stats.demolab.com?user=kazamadev2003&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/kazamadev2003?tab=repositories">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazamadev2003&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;cache_seconds=86400" alt="Top Languages" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/kazamadev2003?tab=repositories">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kazamadev2003&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;radius=10" alt="Contribution Graph" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazamadev2003&amp;theme=tokyonight&amp;utcOffset=-5" alt="Productive Time" />
   </a>
 </div>
 
