@@ -9,7 +9,7 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=kazamadev2003&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Software%20Developer-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Software Developer" />
 <img src="https://img.shields.io/badge/AI%20Solutions-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Solutions" />
 <img src="https://img.shields.io/badge/Experience-4%2B%20Years-00D9FF?style=for-the-badge" alt="Experience" />
@@ -239,16 +239,22 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Profile Analytics</h2>
 
 <p align="center">
-  Cambia <strong>kazamadev2003</strong> por tu usuario real de GitHub.
+  <a href="https://github.com/kazamadev2003">
+    <img src="https://img.shields.io/badge/GitHub-kazamadev2003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Profile-Kazama%20Dev-00D9FF?style=for-the-badge" alt="Kazama Dev" />
+  <img src="https://img.shields.io/badge/Building-Web%20Systems%20%2B%20AI-7C3AED?style=for-the-badge" alt="Building Web Systems and AI" />
 </p>
 
+<br />
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kazamadev2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Kazama Dev GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kazamadev2003&theme=tokyonight&hide_border=true&border_radius=10" alt="Kazama Dev GitHub Streak" />
 
 </div>
 
@@ -256,7 +262,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazamadev2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kazama Dev Top Languages" />
 
 </div>
 
@@ -264,7 +270,20 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kazamadev2003&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Kazama Dev Contribution Graph" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/kazamadev2003?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+</a>
+<a href="https://github.com/kazamadev2003?tab=followers">
+  <img src="https://img.shields.io/badge/Follow%20Me-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
+</a>
 
 </div>
 
@@ -310,17 +329,17 @@
 <h2 align="center">🌐 Contacto</h2>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/kazamadev2003">
+    <img src="https://img.shields.io/badge/GitHub-kazamadev2003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://gekcompany.com">
+    <img src="https://img.shields.io/badge/Website-gekcompany.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://www.linkedin.com/in/brayan-choque-ayma-9102732ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Brayan%20Choque%20Ayma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:TU_CORREO@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -337,3 +356,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:00D9FF&height=140&section=footer" alt="Footer" />
 
 </div>
+
