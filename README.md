@@ -242,7 +242,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  Cambia <strong>TU_USUARIO_GITHUB</strong> por tu usuario real de GitHub.
+  Cambia <strong>kazamadev2003</strong> por tu usuario real de GitHub.
 </p>
 
 <div align="center">
